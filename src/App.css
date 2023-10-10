@@ -79,3 +79,7 @@ h1{
     grid-column: 2/4;
     grid-row: 1;
 }
+.social{
+    cursor: pointer;
+    margin: 8px 5px;
+}
